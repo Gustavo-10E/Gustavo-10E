@@ -1,4 +1,6 @@
-## Hi there pipiuy
+## <p align="center">
+  <img src="banner.png" width="100%">
+</p>
 
 
 **Gustavo-10E/Gustavo-10E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
